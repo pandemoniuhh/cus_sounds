@@ -1,1 +1,0 @@
-multify -c -f  cus_soundsTTR.mf phase_* pack.png info.ini
